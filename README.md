@@ -108,10 +108,11 @@ Follow these steps to set up and run the Cryptocurrency Platform on your local m
    git clone <repository-url>
    cd backend
    
-## Configure Application Properties
-```spring.datasource.url=jdbc:mysql://localhost:3306/yourDatabase
+2. Configure Application Properties
+ ```bash
+spring.datasource.url=jdbc:mysql://localhost:3306/yourDatabase
 spring.datasource.username=yourUsername
-spring.datasource.password=yourPassword```
+spring.datasource.password=yourPassword
 
 
 ### Frontend Setup
