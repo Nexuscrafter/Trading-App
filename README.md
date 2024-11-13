@@ -51,7 +51,7 @@ Securely transfer funds between wallets with our advanced wallet-to-wallet trans
 
 ### Withdrawal to Bank Account
 Directly withdraw funds to bank accounts with ease. Our platform supports seamless integration with banking services to make withdrawals straightforward and quick.
-![Screenshot 2024-11-13 224145](https://github.com/user-attachments/assets/ba6c5a85-08e3-4d72-85cd-b8657697cf48)
+
 
 ### Add Balance to Wallet
 Easily top up wallet balances to continue trading and investing without interruption. Our platform makes it simple to add funds to your digital wallet.
