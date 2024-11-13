@@ -107,12 +107,13 @@ Follow these steps to set up and run the Cryptocurrency Platform on your local m
    ```bash
    git clone <repository-url>
    cd backend
+   
 ## Configure Application Properties
-spring.datasource.url=jdbc:mysql://localhost:3306/yourDatabase
+```spring.datasource.url=jdbc:mysql://localhost:3306/yourDatabase
 spring.datasource.username=yourUsername
 spring.datasource.password=yourPassword
 Run the Project
 
-### FrontEnd Setup
+### Frontend Setup
 1. Do npm install to install all the related dependencies
 2. Do npm run dev to run the project in development environment 
