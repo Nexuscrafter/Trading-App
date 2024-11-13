@@ -27,27 +27,39 @@ Welcome to the Cryptocurrency Platform! This platform provides a comprehensive s
 
 ## Comprehensive Feature Set
 
+![Screenshot 2024-11-13 224007](https://github.com/user-attachments/assets/2f5a7079-a507-4024-9ba0-034f26f0dfbf)
+
 ### AI Chat Bot
 Our AI Chat Bot is designed to handle a wide range of crypto-related queries. It leverages the Gemini API and CoinGecko API to provide real-time data on cryptocurrency values and market trends.
+![Screenshot 2024-11-13 225306](https://github.com/user-attachments/assets/ea08a67a-d022-4b64-9f7b-4e02f24daa4
 
 ### Buy & Sell Crypto
-Facilitate smooth and user-friendly cryptocurrency transactions. Our platform supports a wide array of cryptocurrencies, making it easy for users to buy and sell their preferred digital assets.
+
+![Screenshot 2024-11-13 225335](https://github.com/user-attachments/assets/7758fccb-f0c5-4f18-acec-af2d146b980a)
+
+Facilitate smooth and user-friendly cryptocurrency transactions using payment gateways Stripe. Our platform supports a wide array of cryptocurrencies, making it easy for users to buy and sell their preferred digital assets.
 
 ### Portfolio Management
 Equip your users with robust tools to monitor their investments and track performance. Our portfolio management features help users keep a close eye on their cryptocurrency assets.
 
 ## Advanced Wallet Functionality
 
+![Screenshot 2024-11-13 224119](https://github.com/user-attachments/assets/0b443e9c-7e29-4a38-9268-4e0786922825)
+
 ### Wallet to Wallet Transfer
 Securely transfer funds between wallets with our advanced wallet-to-wallet transfer feature. Ensure your transactions are safe and reliable.
 
 ### Withdrawal to Bank Account
 Directly withdraw funds to bank accounts with ease. Our platform supports seamless integration with banking services to make withdrawals straightforward and quick.
+![Screenshot 2024-11-13 224145](https://github.com/user-attachments/assets/ba6c5a85-08e3-4d72-85cd-b8657697cf48)
 
 ### Add Balance to Wallet
 Easily top up wallet balances to continue trading and investing without interruption. Our platform makes it simple to add funds to your digital wallet.
 
 ## Transaction History
+
+![Screenshot 2024-11-13 224007](https://github.com/user-attachments/assets/b5a65f2d-53bd-4391-b7ad-53b7de7e354d)
+
 
 ### Withdrawal History
 View and track past withdrawals to keep a record of all transactions. Our comprehensive history features ensure transparency and accountability.
@@ -64,10 +76,10 @@ Effortlessly search for any cryptocurrency and provide users with essential info
 Simple and secure user authentication processes ensure that users can easily and safely access their accounts. 
 
 ### Two-Factor Authentication
-Add an extra layer of security to user accounts with two-factor authentication. This feature helps protect user information and funds from unauthorized access.
+Add an extra layer of security to user accounts with two-factor authentication by sending OTP to mail using java mail sender. This feature helps protect user information and funds from unauthorized access.
 
 ### Forgot Password
-Offer an easy password recovery process to help users regain access to their accounts if they forget their credentials.
+Offer an OTP verification process to help users regain access to their accounts if they forget their credentials.
 
 ## Cutting-Edge Technology Stack
 
