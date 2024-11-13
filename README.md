@@ -58,8 +58,7 @@ Easily top up wallet balances to continue trading and investing without interrup
 
 ## Transaction History
 
-![Screenshot 2024-11-13 224007](https://github.com/user-attachments/assets/b5a65f2d-53bd-4391-b7ad-53b7de7e354d)
-
+![Screenshot 2024-11-13 224145](https://github.com/user-attachments/assets/65d6782e-dbe6-4c09-aef2-7d358f24cfc8)
 
 ### Withdrawal History
 View and track past withdrawals to keep a record of all transactions. Our comprehensive history features ensure transparency and accountability.
