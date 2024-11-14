@@ -31,6 +31,7 @@ Welcome to the Cryptocurrency Platform! This platform provides a comprehensive s
 
 ### AI Chat Bot
 Our AI Chat Bot is designed to handle a wide range of crypto-related queries. It leverages the Gemini API and CoinGecko API to provide real-time data on cryptocurrency values and market trends.
+
 ![Screenshot 2024-11-13 225306](https://github.com/user-attachments/assets/ea08a67a-d022-4b64-9f7b-4e02f24daa4
 
 ### Buy & Sell Crypto
